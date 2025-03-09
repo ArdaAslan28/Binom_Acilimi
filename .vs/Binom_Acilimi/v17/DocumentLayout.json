@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arda\\source\\repos\\C\\Binom_Acilimi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D294280-B92F-4BDC-A35A-9572421FCF91}|Binom_Acilimi\\Binom_Acilimi.vcxproj|C:\\Users\\Arda\\source\\repos\\C\\Binom_Acilimi\\Binom_Acilimi\\Binom_Acilimi.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D294280-B92F-4BDC-A35A-9572421FCF91}|Binom_Acilimi\\Binom_Acilimi.vcxproj|solutionrelative:Binom_Acilimi\\Binom_Acilimi.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Binom_Acilimi.c",
+              "DocumentMoniker": "C:\\Users\\Arda\\source\\repos\\C\\Binom_Acilimi\\Binom_Acilimi\\Binom_Acilimi.c",
+              "RelativeDocumentMoniker": "Binom_Acilimi\\Binom_Acilimi.c",
+              "ToolTip": "C:\\Users\\Arda\\source\\repos\\C\\Binom_Acilimi\\Binom_Acilimi\\Binom_Acilimi.c",
+              "RelativeToolTip": "Binom_Acilimi\\Binom_Acilimi.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-08T07:23:39.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
