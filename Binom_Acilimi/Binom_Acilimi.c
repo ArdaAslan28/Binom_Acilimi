@@ -10,21 +10,21 @@ int faktoriyel(int n) {
     return sonuc;
 }
 
-// Binom katsayısını hesaplayan fonksiyon
+// Binom katsayÄ±sÄ±nÄ± hesaplayan fonksiyon
 int binomKatsayisi(int n, int k) {
     return faktoriyel(n) / (faktoriyel(k) * faktoriyel(n - k));
 }
 
-// Binom açılımını yazdıran fonksiyon
+// Binom aÃ§Ä±lÄ±mÄ±nÄ± yazdÄ±ran fonksiyon
 void binomAcilimi(int n) {
     for (int k = 0; k <= n; k++) {
         int katsayi = binomKatsayisi(n, k);
 
-        // Terimlerin yazılması
+        // Terimlerin yazÄ±lmasÄ±
         if (k > 0) printf(" + ");
         if (katsayi!=1) printf("%d", katsayi);
         if (n - k > 0) printf("x^%d", n - k);
-        if (k >= 0) printf("y^%d", k);
+        if (k > 0) printf("y^%d", k);
     }
     printf("\n");
 }
@@ -32,11 +32,11 @@ void binomAcilimi(int n) {
 int main() {
     int n;
 
-    // Kullanıcıdan giriş alma
+    // KullanÄ±cÄ±dan giriÅŸ alma
     printf("Binom acilimi icin us degerini (n) girin: ");
     scanf("%d", &n);
 
-    // Binom açılımı hesaplama ve ekrana yazdırma
+    // Binom aÃ§Ä±lÄ±mÄ± hesaplama ve ekrana yazdÄ±rma
     binomAcilimi(n);
 
     return 0;
