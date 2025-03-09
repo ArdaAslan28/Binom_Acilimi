@@ -2,7 +2,7 @@
 ## Açıklama
 
 Bu proje, C programlama dili kullanılarak geliştirilmiş basit bir uygulamadır. 
-Projede verilen (x + y)n formatında yazılmış bir polinoma göre terimlerin toplamını yazar.
+Projede verilen (x+y)^n formatında yazılmış bir polinoma göre terimlerin toplamını yazar.
 Örnek olarak (x+y)^3 için x^3 + 3x^2*y + 3xy^2 + y^3 şeklinde yazar.
 
 ## Bu Projeyi Nasıl çalıştırabilirim?
